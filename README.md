@@ -39,7 +39,7 @@
     编辑配置文件:
     `vi CentOS6-Base-163.repo`
     如果你系统没有配置环境变量 `$releasever` 和 `$basearch`,那么配置文件就把`$releasever` 都改成 6 
-    ![](media/15343281310377/15343300892789.jpg)
+    ![](https://github.com/yabolu/redhat-git-server/blob/master/163-repo.jpg)
     
     ```
     yum clean all
